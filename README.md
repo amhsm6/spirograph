@@ -1,33 +1,33 @@
-##circular_frame
+## circular_frame
 model finished, on school computer 13
 
-##circular_connector
+## circular_connector
 model finished, on school computer 13
 
-##leg-ring_holder
+## leg-ring_holder
 model finished, here
 
-##leg
+## leg
 nikita is doing????
 
-##lower_connector
+## lower_connector
 nothing
 
 ---
 
-##left_upper_frame
+## left_upper_frame
 solid has problems with swept
 
-##right_upper_frame
+## right_upper_frame
 nothing
 
 ---
 
-##uppder_double_connector
+## uppder_double_connector
 nothing
 
-##upper_middle_frame
+## upper_middle_frame
 nothing
 
-##upper_single_connector
+## upper_single_connector
 nothing
