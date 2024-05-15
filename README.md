@@ -11,7 +11,7 @@ model finished, here
 nikita is doing????
 
 ## lower_connector
-nothing
+model finished, here
 
 ---
 
