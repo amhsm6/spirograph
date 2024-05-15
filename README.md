@@ -24,7 +24,7 @@ nothing
 ---
 
 ## uppder_double_connector
-nothing
+model finished, here
 
 ## upper_middle_frame
 nothing
