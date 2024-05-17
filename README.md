@@ -15,19 +15,14 @@ model finished, here
 
 ---
 
-## left_upper_frame
-solid has problems with swept
-
-## right_upper_frame
-nothing
-
----
+## upper_frame
+model finished, here
 
 ## uppder_double_connector
 model finished, here
 
 ## upper_middle_frame
-nothing
+model finished, here
 
 ## upper_single_connector
-nothing
+model finished, here
