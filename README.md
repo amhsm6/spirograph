@@ -8,7 +8,7 @@ model finished, on school computer 13
 model finished, here
 
 ## leg
-nikita is doing????
+model finished, here
 
 ## lower_connector
 model finished, here
