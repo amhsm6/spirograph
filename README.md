@@ -1,4 +1,12 @@
+## assembly
+started
+
+---
+
 ## circular_frame
+model finished, here
+
+## circular_part
 model finished, here
 
 ## circular_connector
