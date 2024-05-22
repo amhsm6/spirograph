@@ -1,8 +1,8 @@
 ## circular_frame
-model finished, on school computer 13
+model finished, here
 
 ## circular_connector
-model finished, on school computer 13
+model finished, here
 
 ## leg-ring_holder
 model finished, here
