@@ -1,6 +1,6 @@
 # assembly
 **model** skeleton finished, probably need screws\
-**drawing** MISSING
+**drawing** MISSING\
 **drawing_exploded** MISSING
 
 ---
