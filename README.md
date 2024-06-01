@@ -1,5 +1,5 @@
 # assembly
-**model** skeleton finished, probably need screws\
+**model** finished without carriage\
 **drawing** MISSING\
 **drawing_exploded** MISSING
 
