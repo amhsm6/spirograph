@@ -3,8 +3,6 @@
 **drawing** MISSING\
 **drawing_exploded** MISSING
 
----
-
 ## circular_frame
 **model** done\
 **drawing** MISSING
@@ -52,5 +50,34 @@
 **drawing** MISSING
 
 ## profile
+**model** done\
+**drawing** MISSING
+
+# carriage
+**model** MISSING\
+**drawing** MISSING\
+**drawing_exploded** MISSING
+
+## belt_tensioner
+**model** done\
+**drawing** MISSING
+
+## lower_plate
+**model** done\
+**drawing** MISSING
+
+## pulley2022
+**model** done\
+**drawing** MISSING
+
+## pulley2032
+**model** done\
+**drawing** MISSING
+
+## pulley5080
+**model** done\
+**drawing** MISSING
+
+## upper_plate
 **model** done\
 **drawing** MISSING
