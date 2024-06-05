@@ -1,51 +1,51 @@
 # assembly
 **model** finished without carriage\
-**drawing** MISSING\
-**drawing_exploded** MISSING
+**drawing** done\
+**drawing_exploded** done
 
 ## circular_frame
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## circular_part
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## circular_connector
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## leg-ring_holder
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## leg
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## lower_connector
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## left_upper_frame
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## right_upper_frame
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## uppder_double_connector
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## upper_middle_frame
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## upper_single_connector
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## profile
 **model** done\
