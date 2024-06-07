@@ -60,24 +60,24 @@
 
 ## belt_tensioner
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## lower_plate
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## pulley2022
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## pulley2032
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## pulley5080
 **model** done\
-**drawing** MISSING
+**drawing** done
 
 ## upper_plate
 **model** done\
-**drawing** MISSING
+**drawing** done
