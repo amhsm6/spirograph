@@ -54,7 +54,7 @@
 ---
 
 # carriage
-**model** MISSING\
+**model** finished without motor\
 **drawing** MISSING\
 **drawing_exploded** MISSING
 
@@ -81,3 +81,7 @@
 ## upper_plate
 **model** done\
 **drawing** done
+
+## roller
+**model** done\
+**drawing** MISSING
